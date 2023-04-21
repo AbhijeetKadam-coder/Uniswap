@@ -5,7 +5,7 @@ const JSBI = require('jsbi')
 const ERC20ABI = require('./abi.json')
 
 const V3_SWAP_ROUTER_ADDRESS = '0xDC967Ca10BDaF62b914569169C568f6d79FFCc76'
-const REACT_APP_INFURA_URL_TESTNET = process.env.REACT_APP_INFURA_URL_TESTNET
+const REACT_APP_INFURA_URL_TESTNET = "";
 
 const chainId = 3
 
